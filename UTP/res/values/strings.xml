@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Utp CGPA Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="currentCGPA">Current CGPA</string>
+    <string name="totalCredit">Total Credit Hours</string>
+    <string name="instruction">Please fill in the info below :</string>
+    <string-array name="grade_arrays">
+        <item >Grade</item>
+        <item >A+</item>
+        <item >A-</item>
+        <item >B+</item>
+        <item >B</item>
+        <item >C+</item>
+        <item >C</item>
+        <item >D+</item>
+        <item >D</item>
+        <item >F</item>
+    </string-array>
+    <string-array name="chour_arrays">
+        <item >Credit Hour</item>
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >14</item>
+    </string-array>
+        <string name="totalcredit">Total Credit Hours</string>
+        <string name="info1">"#Total Credit Hours = Accumulated Credit Hours that you have taken "</string>
+        <string name="info2">#Current CGPA = Latest CGPA from the previous semesters</string>
+
+</resources>
